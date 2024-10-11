@@ -1,1 +1,1 @@
-ws://tsssss.portaloflegends.net/
+wss://tsssss.portaloflegends.net/
