@@ -1,1 +1,1 @@
-ws://128.140.124.105:2086/
+wss://appl.ghoghnoospay.com/
