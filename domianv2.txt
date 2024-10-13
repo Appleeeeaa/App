@@ -1,1 +1,1 @@
-wss://tsssss.portaloflegends.net/
+ws://128.140.124.105:2086/
