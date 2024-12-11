@@ -1,1 +1,1 @@
-wss://appl.ghoghnoospay.com/
+wss://application.ghoghnoospay.com/
