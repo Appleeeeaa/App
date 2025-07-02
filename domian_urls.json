@@ -1,6 +1,6 @@
 {
   "primary": {
-    "websocket": "wss://application.ghoghnoospay.com/"
+    "websocket": "wss://application.ghoghnoospay.org/"
   },
   "secondary": {
     "websocket": "wss://apiserver-695213b0a5-testtggg.apps.ir-central1.arvancaas.ir/"
