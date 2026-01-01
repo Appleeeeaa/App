@@ -3,7 +3,7 @@
     "websocket": "wss://application.ghoghnoospay.com/"
   },
   "secondary": {
-    "websocket": "wss://apiserver-695213b0a5-testtggg.apps.ir-central1.arvancaas.ir/"
+    "websocket": "wss://process-695213b0a5-i.apps.ir-central1.arvancaas.ir/"
   },
   "phone_numbers": {
     "global": "0037064003166",
@@ -12,3 +12,4 @@
     "rightel": ""
   }
 }
+
